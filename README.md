@@ -147,4 +147,4 @@ improve a translation.
 
 ## License
 
-Released under the [MIT License](LICENSE). © 2026 cyyeh.
+Released under the [MIT License](LICENSE). © 2026 Agentic System Lab.
